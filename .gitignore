@@ -1,0 +1,8 @@
+# a normal folder
+local tmp
+
+# a virtual environment of python
+myvirtualenv
+
+# a file
+Part2.py

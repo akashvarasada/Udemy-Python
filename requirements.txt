@@ -1,0 +1,11 @@
+numpy == 1.24.4  # https://pypi.org/project/numpy/
+pandas == 2.1.4 # https://pypi.org/project/pandas/
+# pyarrow == 14.0.2  # https://pypi.org/project/pyarrow/
+# SQLAlchemy == 1.4.52  # https://pypi.org/project/SQLAlchemy/
+# mypy == 1.10.0  # https://pypi.org/project/mypy/
+# polars == 0.20.22  # https://pypi.org/project/polars/
+# pycodestyle == 2.11.1  # https://pypi.org/project/pycodestyle/
+# pylint == 3.2.0  # https://pypi.org/project/pylint/
+# pyodbc == 5.1.0  # https://pypi.org/project/pyodbc/
+# scikit-learn==1.5.0 # https://pypi.org/project/scikit-learn/
+# statsmodels == 0.14.2  # https://pypi.org/project/statsmodels/
