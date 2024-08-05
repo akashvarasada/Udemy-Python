@@ -10,4 +10,4 @@ https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deploy
 https://docs.google.com/spreadsheets/d/1bK4zQLSlDRanrFuWNUNa09BQkswCv8ovYHKZkiXO2ng/edit?gid=0#gid=0
 
 ##Notion Link:
-https://www.notion.so/Setting-up-new-repo-in-GitHub-through-VScode-8827b295128048579064c93f5efe04e2
+https://www.notion.so/Complete-Machine-Learning-NLP-Bootcamp-MLOPS-Deployment-51586410c52b40e990f4d28c637a22de
